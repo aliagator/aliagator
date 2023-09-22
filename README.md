@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Sonda
 - 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on a project seeing compliance.
+- 👊🏻 I'm native spanish speakers, and english speaker B3.
+- 👯 I’m looking to collaborate on a project about legal compliance.
 - 🫡 Skills: HTML5, CSS, Javascript, Java, Python, compliance.
 - 📫 How to reach me: email: pandresaliaga@gmail.com facetime: pabloaliaga@vtr.net
 - 😄 Pronouns: He.
