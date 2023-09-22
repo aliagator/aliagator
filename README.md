@@ -4,9 +4,9 @@ I'm Pablo A. Aliaga.
 Passionate technology professional with a strong drive for learning and developing soft skills to establish good interpersonal relationships and work effectively in teams. With a multidisciplinary software background, I proactively contribute to the company's development with a sense of responsibility.
 
 Education:
--Law Degree, Bachelor of Legal Sciences.
--Bachelor's Degree in Computer Engineering.
--Diploma in arts,  Administrative Law, with a focus on General Administrative Law.
+- Law Degree, Bachelor of Legal Sciences.
+- Diploma in arts,  Administrative Law, with a focus on General Administrative Law.
+- Bachelor's Degree in Computer Engineering.
 
 
 Here are some ideas to get you started:
